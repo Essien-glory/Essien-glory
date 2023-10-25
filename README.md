@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Essien-glory
-- 👀 I’m a Data Enthusiast
-- 🌱 I’m currently learning Power BI & Sql
+- 👀 A Data Enthusiast
+- 🌱 Currently learning Power BI & Sql
 - 💞️ I’m also looking for Internships and or entry level programs
 - 📫 You can reach me on linked_in with sane username
 
