@@ -1,8 +1,8 @@
 - Hi, I’m @Essien-glory
-- A Data Enthusiast
+- A Junior Data Analyst
 - Currently learning Power BI & Sql
-- I’m also looking for Internships and or entry level programs
-- You can reach me on linked_in with sane username
+- I’m also looking for Internships and/or entry level programs
+- You can reach me on linked_in with same username
 
 <!---
 Essien-glory/Essien-glory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
