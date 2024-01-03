@@ -1,6 +1,6 @@
 - Hi, I’m @Essien-glory
 - A Junior Data Analyst
-- Currently learning Power BI, Sql & Python
+- Excel, Power BI, Sql & Python
 - I’m also looking for Internships and/or entry level programs
 - You can reach me on linked_in with same username
 
