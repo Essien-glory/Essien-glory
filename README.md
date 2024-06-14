@@ -1,6 +1,6 @@
                     Hello and welcome to my profile!
 
-                I'm Essien Glory, a Data Analyst.
+                   I'm Essien Glory, a Data Analyst.
 
   Currently engaged in hands-on practice and project development.
                                        
